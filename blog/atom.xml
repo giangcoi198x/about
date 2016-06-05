@@ -12,7 +12,7 @@ layout: feed
 	<author>
 		<name>Nguyen Quoc Giang</name>
 		<email>giangnq.it@gmail.com</email>
-	</author<name />
+	</author<name/>>
 
 	{% for post in site.posts %}
 		<entry>
