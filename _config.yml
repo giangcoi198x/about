@@ -1,3 +1,4 @@
 name: Giang Nguyen Quoc, Software Engineer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /404.html
