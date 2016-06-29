@@ -510,7 +510,7 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 header.home{
-	background-image:url("../img/TemplateImg/JobInterview.jpg");
+	background-image:url("../img/TemplateImg/bg2.jpg");
 	background-size: cover;
 	background-position: 50% 50%;
 	background-attachment: fixed !important;
@@ -1032,10 +1032,10 @@ div#loading {
 	
 }
 .milestones{
-	background-image:url("../img/TemplateImg/milestones.jpg");
+	background-image:url("../img/TemplateImg/bg4.jpg");
 }
 .process{
-	background-image:url("../img/TemplateImg/awards.jpg");
+	background-image:url("../img/TemplateImg/bg5.jpg");
 	
 }
 .testimonial-section{
